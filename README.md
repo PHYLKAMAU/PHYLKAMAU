@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/phyl" target="blank"><img src="https://img.shields.io/twitter/follow/phyl?logo=twitter&style=for-the-badge" alt="phyl" /></a> </p>
 
-- 🌱 I’m currently learning **react and flutter**
+- 🌱 I’m  profiient in reactjs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PHYLKAMAU](https://github.com/PHYLKAMAU)
 
-- 💬 Ask me about **javascript, php,css, and html**
+- 💬 Ask me about **reactjs,javascript, **
 
 - 📫 How to reach me **phyliskamau3902@gmail.com**
 
